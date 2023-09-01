@@ -31,15 +31,15 @@ TODO
 
 ## Supported push services
 
-| name         | status | description                                                          |
-|--------------|--------|----------------------------------------------------------------------|
-| WeCom(企业微信)  | OK     | [source](hibiki-core/src/main/moe/tty/hibiki/core/pushservices/wecom |
-| DingTalk(钉钉) | WIP    |                                                                      |
-| Telegram     | WIP    |                                                                      |
-| OneBot v11   | WIP    |                                                                      |
-| Slack        | WIP    |                                                                      |
-| Discord      | WIP    |                                                                      |
-| stdout       | OK     | print messages to stdout, just for testing                           |
+| name         | status | description                                                           |
+|--------------|--------|-----------------------------------------------------------------------|
+| WeCom(企业微信)  | OK     | [source](hibiki-core/src/main/moe/tty/hibiki/core/pushservices/wecom) |
+| DingTalk(钉钉) | WIP    |                                                                       |
+| Telegram     | WIP    |                                                                       |
+| OneBot v11   | WIP    |                                                                       |
+| Slack        | WIP    |                                                                       |
+| Discord      | WIP    |                                                                       |
+| stdout       | OK     | print messages to stdout, just for testing                            |
 
 Please let me know if you need any other platform that is not in the list :)
 
